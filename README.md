@@ -4,7 +4,7 @@ Information about my favorite series/movie using different Markdown elements.
 1. First Movie
       i. King Kong
             - Since 1933, King Kong has shown just how big the movies can really get, starting with the iconic original and its legendary image of our misunderstood gorilla atop the Empire State Building swatting away pew-pewing biplanes.
-            ![KingKong](https://user-images.githubusercontent.com/102405983/205893809-1f4cce44-4d72-40ae-a2ce-be0d768c52ee.jpg/200/200)
+            ![KingKong](https://user-images.githubusercontent.com/102405983/205893809-1f4cce44-4d72-40ae-a2ce-be0d768c52ee.jpg)
 2. Second Movie
       ii. John Wick
               - John Wick is an American action thriller media franchise created by Derek Kolstad and centering around John Wick, a former hitman who is forced back into the criminal underworld he had abandoned.
